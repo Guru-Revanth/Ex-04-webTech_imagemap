@@ -13,7 +13,7 @@ use area tag and give correct coordinates to the attributes(shape,coords,alt,hre
 run the program
 
 # Code:
-
+```
 <img src="C:\Users\admin\Desktop\tanjavur images\TT.png"  alt="THANJAI BIG TEMPLE" usemap="#TBT">
 
 <map name="TBT">
@@ -125,7 +125,7 @@ run the program
            significance of this divine enclave within the magnificent tapestry of the Big Temple.
     </p>
 </BODY>
-
+```
 
 
 # Output:
