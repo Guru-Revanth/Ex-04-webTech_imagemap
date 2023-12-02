@@ -4,7 +4,7 @@ To develop a website to display details about the places around my house.
 
 # Design Steps:
 ## Step 1
-download the image and copy the path of the image and paste inside the image tag attribute src(source)give a to that (map name= TBT)
+Download the image and copy the path of the image and paste inside the image tad attribute src(source) Give a to that map(map name=KANCHI)
 
 ## Step 2
 use area tag and give correct coordinates to the attributes(shape,coords,alt,href)
@@ -14,131 +14,106 @@ run the program
 
 # Code:
 ```
-<img src="C:\Users\admin\Desktop\tanjavur images\TT.png"  alt="THANJAI BIG TEMPLE" usemap="#TBT">
+<img src="C:\Users\admin\Pictures\Screenshots\IMAGE\KANCHIPURAM.png" alt="KACHIPURAM" usemap="#KANCHI">
 
-<map name="TBT">
-  <area shape="rect" coords="1085,285,1217,364" alt="THANJAI BIG TEMPLE" href="file:///C:/Users/admin/Desktop/tanjavur%20images/index.html/temple.html">
-  <area shape="rect" coords="671,441,764,494" alt="NANDHI MANDAPAM" href="file:///C:/Users/admin/Desktop/tanjavur%20images/index.html/nandhi.html">
-  <area shape="rect" coords="452,512,570,588" alt="THANJAI GOPURAM" href="file:///C:/Users/admin/Desktop/tanjavur%20images/index.html/gopuram.html">
-  <area shape="rect" coords="1180,445,1364,452" href="file:///C:/Users/admin/Desktop/tanjavur%20images/index.html/murugan.html" alt="OM MURUGAN SANNADHI">
-  <area shape="rect" coords="192,586,321,670" href="file:///C:/Users/admin/Desktop/tanjavur%20images/index.html/mainenterence.html" alt="THANJAI MAINRNTERENCE">
-</map>
+<map name="KANCHI">
+  <area shape="rect" coords="179,34,240,102" alt="MYHOME" href="file:///C:/Users/admin/Documents/Imagemap/MYHOME.HTML">
+  <area shape="rect" coords="83,237,118,268" alt="CHOLAN SCHOOL" href="file:///C:/Users/admin/Documents/Imagemap/CHOLAN.HTML">
+  <area shape="rect" coords="478,250,500,311" alt="Ekambaranathar Temple East Gopuram" href="file:///C:/Users/admin/Documents/Imagemap/Ekambaranathar%20Temple%20East%20Gopuram.HTML">
+  <area shape="rect" coords="766,512,722,536" href="file:///C:/Users/admin/Documents/Imagemap/B1%2C%20Siva%20Kanchi%20Police%20Station.HTML" alt="B1, Siva Kanchi Police StationI">
+  <area shape="rect" coords="683,658,639,612" href="file:///C:/Users/admin/Documents/Imagemap/B1%2C%20Siva%20Kanchi%20Police%20Station.HTML" alt="Kanchipuram Sri Varshini Silk House">
+</map>ile:///C:/Users/admi
 
 
 <BODY>
     <h1>
-        THANJAI GOPURAM - Thanjavur, Tamil Nadu
+        MY HOME, KANCHIPURAM
     </h1>
     <p>
-        The Thanjavur Gopuram, a towering masterpiece at the entrance of the Brihadeshwara Temple, stands as
-         an architectural marvel, transcending time and narrating tales of Chola ingenuity. Reaching skyward 
-         with intricate carvings, this monumental structure serves as a gateway to the divine. Its elaborate
-          design, featuring celestial beings and mythological depictions, reflects the rich cultural and
-           religious tapestry of ancient India. As sunlight plays on its ornate surfaces, the Gopuram becomes 
-           a radiant symbol, welcoming pilgrims into a realm where spirituality converges with artistic 
-           splendor, leaving an indelible mark on those who behold its grandeur.
+        "My home is a haven of comfort and joy. Each room tells a story, adorned with memories and cherished belongings.
+It resonates with laughter, echoes of shared moments, and the aroma of familiar meals.
+ It's not just a place; it's a sanctuary where love and warmth create a tapestry of belonging." 
     </p>
 </BODY>
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title> </title>
-</head>
-
 <BODY>
     <h1>
-        THANJAI MAINENTERENCE - Thanjavur, Tamil Nadu
+        Kanchipuram Sri Varshini Silk House , KANCHIPURAM
     </h1>
     <p>
-        The entrance to the Brihadeshwara Temple in Thanjavur, often referred to as the Big Temple,
-         is a mesmerizing gateway to a rich cultural and architectural legacy. 
-         Adorned with intricate carvings and towering gopurams, it stands as a testament to Chola 
-         craftsmanship and devotion. As one approaches, the imposing structure captivates with its grandeur,
-          inviting visitors into a sacred space where history and spirituality converge.
+        Kanchipuram Sri Varshini Silk House stands as a prominent destination for those seeking the
+ finest silk sarees in the heart of Kanchipuram. Renowned for its exquisite collection, the store showcases the
+ artistry of traditional Kanchipuram silk weaving. Customers are greeted with a kaleidoscope of vibrant colors
+and intricate designs, each saree reflecting the heritage and craftsmanship of the region. Sri Varshini Silk House
+ is a treasure trove for those celebrating special occasions or desiring a touch of elegance in their attire.
+ The establishment's commitment to quality and tradition has made it a revered destination for silk connoisseurs and fashion enthusiasts alike.
+     
     </p>
 </BODY>
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title> </title>
-</head>
-
 <BODY>
     <h1>
-        NANDHI MANDAPAM - Thanjavur, Tamil Nadu
+        Ekambaranathar Temple East Gopuram, KANCHIPURAM
     </h1>
     <p>
-        The Nandi, a sacred bull, graces the entrance of the Brihadeshwara Temple in Thanjavur, adding a 
-        majestic aura to the spiritual ambiance. Carved from a single stone, this colossal Nandi statue 
-        exemplifies the Chola dynasty's artistic prowess. With its serene expression and intricate detailing,
-         it symbolizes unwavering devotion and serves as a guardian to the sanctum. Pilgrims and art 
-         enthusiasts alike find solace in the silent presence of this divine companion, embodying the timeless
-          connection between worshipper and deity at this ancient marvel.
+        The East Gopuram of Ekambaranathar Temple in Kanchipuram stands as a magnificent testament to Dravidian
+ architecture. Rising high with intricate carvings and vibrant sculptures, it is a splendid entrance to the sacred
+ site dedicated to Lord Shiva. Constructed during the Vijayanagara period, the gopuram showcases elaborate depictions
+ of mythological tales and deities, reflecting the rich cultural tapestry of South India. Adorned with finely
+sculpted gods, goddesses, and celestial beings, it symbolizes the artistic brilliance of ancient Tamil craftsmanship.
+ Pilgrims and tourists alike marvel at the East Gopuram's grandeur, a doorway that beckons spiritual seekers into a
+ realm of divine beauty.
     </p>
 </BODY>
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title> </title>
-</head>
-
 <BODY>
     <h1>
-        THANJAVUR BIG TEMPLE - Thanjavur, Tamil Nadu
+        CHOLAN SCHOOL, KANCHIPURAM
     </h1>
     <p>
-        The Brihadeshwara Temple, commonly known as the Big Temple, is a magnificent Hindu temple located in 
-        Thanjavur, Tamil Nadu, India. Built by King Rajaraja I in the 11th century, this architectural marvel 
-        stands as a testament to the grandeur of the Chola dynasty.
-        The temple is renowned for its towering vimana, a monumental structure that rises to great heights. 
-        The vimana, capped with a massive dome, is adorned with intricate carvings and sculptures, showcasing
-         the artistic brilliance of the Chola craftsmen. The temple's main sanctum houses a massive lingam, 
-         a representation of the Hindu deity Shiva.
-
-
+        Cholan Matric Higher Secondary School in Kanchipuram is an esteemed institution known for its
+commitment to academic excellence and holistic development. With a rich history, the school provides a
+ nurturing environment for students, fostering intellectual growth and character building. The dedicated
+faculty employs innovative teaching methods, preparing students for a dynamic future. The school's
+ infrastructure supports various extracurricular activities, enhancing students' skills beyond academics.
+ Cholan Matric HSS is a proud hub of cultural diversity, promoting inclusivity. Its legacy of producing
+ well-rounded individuals stands testament to its unwavering dedication to shaping bright and responsible citizens.     
+     
     </p>
 </BODY>
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title> </title>
-</head>
-
 <BODY>
     <h1>
-        OM MURGAN SANNADHI - Thanjavur, Tamil Nadu
+        B1, Siva Kanchi Police Station, KANCHIPURAM
     </h1>
     <p>
-        Within the sacred precincts of the Brihadeshwara Temple in Thanjavur, lies the serene abode of 
-        Lord Murugan, known as the Om Murugan Sannadhi. This shrine dedicated to the God of War and Victory
-         exudes tranquility amidst the grandeur of the larger complex. Adorned with vibrant sculptures and 
-         sacred symbols, the sanctum provides a spiritual haven for devotees seeking blessings and solace.
-          The resonance of prayers and the aura of devotion create a harmonious atmosphere, underscoring the
-           significance of this divine enclave within the magnificent tapestry of the Big Temple.
+        B1 Siva Kanchi Police Station in Kanchipuram serves as a crucial hub for law enforcement,
+ ensuring the safety and security of the region's residents. Strategically located, it plays a
+pivotal role in maintaining public order and addressing criminal activities. Staffed by dedicated officers,
+the police station is equipped to handle a range of situations, from routine inquiries to emergencies.
+ The presence of B1 Siva Kanchi Police Station underscores the commitment to maintaining law and
+order in the community. It serves as a reassuring presence for locals and contributes to the overall
+ well-being and harmony of Kanchipuram's urban landscape.
+     
     </p>
 </BODY>
 ```
 
 
 # Output:
-![tanjavur](https://github.com/PREM3112/Ex-04-webTech_imagemap/assets/145449383/f09a5983-1793-4d79-b110-1168fd57ec88)
-![iii](https://github.com/PREM3112/Ex-04-webTech_imagemap/assets/145449383/6d2cc100-fc52-4fce-94ed-5677e5e8e56d)
-![WhatsApp Image 2023-11-23 at 09 46 31_2f699ca6](https://github.com/PREM3112/Ex-04-webTech_imagemap/assets/145449383/33560d1c-5ba5-4a15-815c-df3c1d888375)
-![WhatsApp Image 2023-11-23 at 09 46 50_03ccb448](https://github.com/PREM3112/Ex-04-webTech_imagemap/assets/145449383/ba985b1b-8fca-4abc-8f60-2115cae6a15c)
-![WhatsApp Image 2023-11-23 at 09 47 23_df1da529](https://github.com/PREM3112/Ex-04-webTech_imagemap/assets/145449383/3cc54f04-bb40-4ca1-8efb-e50fddffc252)
-![WhatsApp Image 2023-11-23 at 09 46 11_07e09546](https://github.com/PREM3112/Ex-04-webTech_imagemap/assets/145449383/5cd9288a-bcf3-4320-bc7d-25950d7cac77)
-
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-5.png)
+![Alt text](image-6.png)
+![Alt text](image-7.png)
 
 
 
 
 # Result:
-thus the output got successfully.
+The image map is succesfully created.
